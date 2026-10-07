@@ -1,0 +1,19 @@
+[Licensing::Module] Trying to connect to existing licensing client channel...
+Built from '6000.6/staging' branch; Version is '6000.6.2f1 (770e33f6875c) revision 7802419'; Using compiler version '194234433'; Build Type 'Release'
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-dima" at "2026-10-07T06:08:46.1188696Z"
+OS: 'Windows 11  (10.0.26200) Enterprise' Language: 'ru' Physical Memory: 64599 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
+System  architecture: x64
+Process architecture: x64
+Date: 2026-10-07T06:08:46Z
+[Licensing::Client] Code 10 while verifying Licensing Client signature (process Id: 6684, path: "C:/Program Files/Unity Hub/UnityLicensingClient_V1/Unity.Licensing.Client.exe")
+[Licensing::Module] LicensingClient has failed validation; ignoring
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.18.3+d7ffd15
+  Session Id:              f4655adecb494649bc4b118ccac741fd
+  Correlation Id:          3c6f464328de63d3fabe0948d7c559fa
+  External correlation Id: 7879093292421824022
+  Machine Id:              f38P7FwF6l8UMD3psmbbbP6kXOw=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-dima" (connect: 0.00s, validation: 0.00s, handshake: 0.03s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-dima-notifications" at "2026-10-07T06:08:46.1449256Z"
+[Licensing::Module] Licensing Background thread has ended after 0.03s

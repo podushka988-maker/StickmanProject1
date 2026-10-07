@@ -1,0 +1,36 @@
+
+Server arguments:
+  --memory-size 1073741824
+  --shared-postfix a5def905455acabafcaa8783258ba49e
+  --working-directory Library/DataStore
+  --silent-console
+  --shutdown-grace 0
+  --client-process-check 0
+  --uds-log-file C:/Users/dima/StickmanProject/Logs/UDS-Service.log
+  --debug-log 2
+  -name
+  Unity.DataStore
+
+Initialising UDS system complete:
+  - System type: Service
+  - Resource namespace: a5def905455acabafcaa8783258ba49e
+  - Shared memory size: 1073741824
+  - Command buffer id: 1052576
+  - Command buffer size: 8192
+  - Hashmap size: 4194304
+Starting Unity Data Store Application
+[Error] Failed to remove data for hash db21e2b0934138d0119868d9bb6377cc. Failure received from service
+0x00007ff73829ae45 (Unity.DataStore) uds_wait_handle_complete
+0x00007ff73825f835 (Unity.DataStore) uds_cleanup
+0x00007ff73824edbf (Unity.DataStore) 
+0x00007ff73825000d (Unity.DataStore) 
+0x00007ff7382372e5 (Unity.DataStore) 
+0x00007ff73823676a (Unity.DataStore) 
+0x00007ff738236a4f (Unity.DataStore) 
+0x00007ff7382328b5 (Unity.DataStore) 
+0x00007ff7382b68c4 (Unity.DataStore) uds_wait_handle_complete
+0x00007fff38a0cd87 (KERNEL32) BaseThreadInitThunk
+0x00007fff39bccaec (ntdll) RtlUserThreadStart
+
+Unity Data Store Application Complete
+Shut down UDS service system complete
