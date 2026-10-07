@@ -1,0 +1,1198 @@
+fileFormatVersion: 2
+guid: fc678628eed3e854797c5b710517cf32
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7016752431643634054
+    second: jump_in_place_spritesheet_8x5_0
+  - first:
+      213: -8739144446038179788
+    second: jump_in_place_spritesheet_8x5_1
+  - first:
+      213: -6144859425027747443
+    second: jump_in_place_spritesheet_8x5_2
+  - first:
+      213: 7277094728604510655
+    second: jump_in_place_spritesheet_8x5_3
+  - first:
+      213: -5510578870858404233
+    second: jump_in_place_spritesheet_8x5_4
+  - first:
+      213: -1870850363356395735
+    second: jump_in_place_spritesheet_8x5_5
+  - first:
+      213: -4487534815052146491
+    second: jump_in_place_spritesheet_8x5_6
+  - first:
+      213: 2849302811729227181
+    second: jump_in_place_spritesheet_8x5_7
+  - first:
+      213: 4655056428593638515
+    second: jump_in_place_spritesheet_8x5_8
+  - first:
+      213: -346409135710110558
+    second: jump_in_place_spritesheet_8x5_9
+  - first:
+      213: -8312332515597628480
+    second: jump_in_place_spritesheet_8x5_10
+  - first:
+      213: 7272532276981764158
+    second: jump_in_place_spritesheet_8x5_11
+  - first:
+      213: 2103557119678768087
+    second: jump_in_place_spritesheet_8x5_12
+  - first:
+      213: -9032247294722531534
+    second: jump_in_place_spritesheet_8x5_13
+  - first:
+      213: -8886102967007584307
+    second: jump_in_place_spritesheet_8x5_14
+  - first:
+      213: 9147391545394140793
+    second: jump_in_place_spritesheet_8x5_15
+  - first:
+      213: -3371409221929885538
+    second: jump_in_place_spritesheet_8x5_16
+  - first:
+      213: 4004683903219245114
+    second: jump_in_place_spritesheet_8x5_17
+  - first:
+      213: -8660924724638090478
+    second: jump_in_place_spritesheet_8x5_18
+  - first:
+      213: -1041315861427694997
+    second: jump_in_place_spritesheet_8x5_19
+  - first:
+      213: -3188028205537596401
+    second: jump_in_place_spritesheet_8x5_20
+  - first:
+      213: 4017396138188327057
+    second: jump_in_place_spritesheet_8x5_21
+  - first:
+      213: -53919462574277647
+    second: jump_in_place_spritesheet_8x5_22
+  - first:
+      213: 6858364771102902632
+    second: jump_in_place_spritesheet_8x5_23
+  - first:
+      213: -4184364399599776490
+    second: jump_in_place_spritesheet_8x5_24
+  - first:
+      213: 7703076458279158908
+    second: jump_in_place_spritesheet_8x5_25
+  - first:
+      213: 421997110381638035
+    second: jump_in_place_spritesheet_8x5_26
+  - first:
+      213: -7853271024442431722
+    second: jump_in_place_spritesheet_8x5_27
+  - first:
+      213: -4988832002846714838
+    second: jump_in_place_spritesheet_8x5_28
+  - first:
+      213: -9023882697291139026
+    second: jump_in_place_spritesheet_8x5_29
+  - first:
+      213: -2355725215086282382
+    second: jump_in_place_spritesheet_8x5_30
+  - first:
+      213: -2190134854879564224
+    second: jump_in_place_spritesheet_8x5_31
+  - first:
+      213: 3920493622216577177
+    second: jump_in_place_spritesheet_8x5_32
+  - first:
+      213: -8908232210897566505
+    second: jump_in_place_spritesheet_8x5_33
+  - first:
+      213: -6937073422865364416
+    second: jump_in_place_spritesheet_8x5_34
+  - first:
+      213: 9193584886063938792
+    second: jump_in_place_spritesheet_8x5_35
+  - first:
+      213: 7006633376254396099
+    second: jump_in_place_spritesheet_8x5_36
+  - first:
+      213: 1939900931657559305
+    second: jump_in_place_spritesheet_8x5_37
+  - first:
+      213: 5681309553143183099
+    second: jump_in_place_spritesheet_8x5_38
+  - first:
+      213: -6381255673324715164
+    second: jump_in_place_spritesheet_8x5_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jump_in_place_spritesheet_8x5_0
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1369
+        width: 102
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6892af40923806160800000000000000
+      internalID: 7016752431643634054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_in_place_spritesheet_8x5_1
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1369
+        width: 107
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4300115ad6258b680800000000000000
+      internalID: -8739144446038179788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_in_place_spritesheet_8x5_2
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1369
+        width: 114
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d819288e8e219baa0800000000000000
+      internalID: -6144859425027747443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_in_place_spritesheet_8x5_3
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 1369
+        width: 128
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9e657991f6df460800000000000000
+      internalID: 7277094728604510655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_in_place_spritesheet_8x5_4
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 1369
+        width: 143
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e26b796bd7683b0800000000000000
+      internalID: -5510578870858404233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_in_place_spritesheet_8x5_5
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 1369
+        width: 154
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9274b38b1876906e0800000000000000
+      internalID: -1870850363356395735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_in_place_spritesheet_8x5_6
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 1369
+        width: 158
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c85e979cd219b1c0800000000000000
+      internalID: -4487534815052146491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_in_place_spritesheet_8x5_7
+      rect:
+        serializedVersion: 2
+        x: 2181
+        y: 1369
+        width: 156
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad64ae9fc1ca8720800000000000000
+      internalID: 2849302811729227181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_in_place_spritesheet_8x5_8
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1029
+        width: 150
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ce8b388251a9040800000000000000
+      internalID: 4655056428593638515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_in_place_spritesheet_8x5_9
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1029
+        width: 134
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac7c07f9be413bf0800000000000000
+      internalID: -346409135710110558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_in_place_spritesheet_8x5_10
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 1029
+        width: 119
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cbcfd02e99a4ac80800000000000000
+      internalID: -8312332515597628480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_in_place_spritesheet_8x5_11
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 1029
+        width: 117
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e309f0b03993de460800000000000000
+      internalID: 7272532276981764158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_in_place_spritesheet_8x5_12
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 1029
+        width: 131
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d362332e06513d10800000000000000
+      internalID: 2103557119678768087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_in_place_spritesheet_8x5_13
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 1029
+        width: 135
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f949ab0f207a280800000000000000
+      internalID: -9032247294722531534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_in_place_spritesheet_8x5_14
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 1029
+        width: 126
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcfd7fd9e683ea480800000000000000
+      internalID: -8886102967007584307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_in_place_spritesheet_8x5_15
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 1028
+        width: 127
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97611a4452012fe70800000000000000
+      internalID: 9147391545394140793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_in_place_spritesheet_8x5_16
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 688
+        width: 133
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90a466dc295631d0800000000000000
+      internalID: -3371409221929885538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_in_place_spritesheet_8x5_17
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 690
+        width: 139
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30ab11dace739730800000000000000
+      internalID: 4004683903219245114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_in_place_spritesheet_8x5_18
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 694
+        width: 143
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b7c89b9d63ec780800000000000000
+      internalID: -8660924724638090478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_in_place_spritesheet_8x5_19
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 702
+        width: 138
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b625f9cbdb08c81f0800000000000000
+      internalID: -1041315861427694997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_in_place_spritesheet_8x5_20
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 710
+        width: 131
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c610bec39d1c3d0800000000000000
+      internalID: -3188028205537596401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_in_place_spritesheet_8x5_21
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 711
+        width: 128
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198cdbaa088a0c730800000000000000
+      internalID: 4017396138188327057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_in_place_spritesheet_8x5_22
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 706
+        width: 128
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fbb7c2d880704ff0800000000000000
+      internalID: -53919462574277647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_in_place_spritesheet_8x5_23
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 701
+        width: 125
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86944a11c6ecd2f50800000000000000
+      internalID: 6858364771102902632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_in_place_spritesheet_8x5_24
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 358
+        width: 122
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d801f8fb62ee5c0800000000000000
+      internalID: -4184364399599776490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_in_place_spritesheet_8x5_25
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 354
+        width: 126
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c744765e933d6ea60800000000000000
+      internalID: 7703076458279158908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_in_place_spritesheet_8x5_26
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 351
+        width: 133
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391f984d22c3bd500800000000000000
+      internalID: 421997110381638035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_in_place_spritesheet_8x5_27
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 349
+        width: 138
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617ad379c93930390800000000000000
+      internalID: -7853271024442431722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_in_place_spritesheet_8x5_28
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 349
+        width: 139
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a249832b9bb14cab0800000000000000
+      internalID: -4988832002846714838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_in_place_spritesheet_8x5_29
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 349
+        width: 135
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28fa255f7ab4c280800000000000000
+      internalID: -9023882697291139026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_in_place_spritesheet_8x5_30
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 349
+        width: 127
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279f956e568ce4fd0800000000000000
+      internalID: -2355725215086282382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_in_place_spritesheet_8x5_31
+      rect:
+        serializedVersion: 2
+        x: 2217
+        y: 349
+        width: 127
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ea3bc04f31b91e0800000000000000
+      internalID: -2190134854879564224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_in_place_spritesheet_8x5_32
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 9
+        width: 126
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99057608d24686630800000000000000
+      internalID: 3920493622216577177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_in_place_spritesheet_8x5_33
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 9
+        width: 122
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d402c4800a9f5480800000000000000
+      internalID: -8908232210897566505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_in_place_spritesheet_8x5_34
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 9
+        width: 117
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a8e41e9709abf90800000000000000
+      internalID: -6937073422865364416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_in_place_spritesheet_8x5_35
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 9
+        width: 113
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ecbd328ebc269f70800000000000000
+      internalID: 9193584886063938792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_in_place_spritesheet_8x5_36
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 9
+        width: 111
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c60a07deef8c3160800000000000000
+      internalID: 7006633376254396099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_in_place_spritesheet_8x5_37
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 9
+        width: 111
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90de5ea8e99ebea10800000000000000
+      internalID: 1939900931657559305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_in_place_spritesheet_8x5_38
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 9
+        width: 110
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6f12e00f018de40800000000000000
+      internalID: 5681309553143183099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_in_place_spritesheet_8x5_39
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 9
+        width: 107
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463c88246c93177a0800000000000000
+      internalID: -6381255673324715164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jump_in_place_spritesheet_8x5_0: 7016752431643634054
+      jump_in_place_spritesheet_8x5_1: -8739144446038179788
+      jump_in_place_spritesheet_8x5_10: -8312332515597628480
+      jump_in_place_spritesheet_8x5_11: 7272532276981764158
+      jump_in_place_spritesheet_8x5_12: 2103557119678768087
+      jump_in_place_spritesheet_8x5_13: -9032247294722531534
+      jump_in_place_spritesheet_8x5_14: -8886102967007584307
+      jump_in_place_spritesheet_8x5_15: 9147391545394140793
+      jump_in_place_spritesheet_8x5_16: -3371409221929885538
+      jump_in_place_spritesheet_8x5_17: 4004683903219245114
+      jump_in_place_spritesheet_8x5_18: -8660924724638090478
+      jump_in_place_spritesheet_8x5_19: -1041315861427694997
+      jump_in_place_spritesheet_8x5_2: -6144859425027747443
+      jump_in_place_spritesheet_8x5_20: -3188028205537596401
+      jump_in_place_spritesheet_8x5_21: 4017396138188327057
+      jump_in_place_spritesheet_8x5_22: -53919462574277647
+      jump_in_place_spritesheet_8x5_23: 6858364771102902632
+      jump_in_place_spritesheet_8x5_24: -4184364399599776490
+      jump_in_place_spritesheet_8x5_25: 7703076458279158908
+      jump_in_place_spritesheet_8x5_26: 421997110381638035
+      jump_in_place_spritesheet_8x5_27: -7853271024442431722
+      jump_in_place_spritesheet_8x5_28: -4988832002846714838
+      jump_in_place_spritesheet_8x5_29: -9023882697291139026
+      jump_in_place_spritesheet_8x5_3: 7277094728604510655
+      jump_in_place_spritesheet_8x5_30: -2355725215086282382
+      jump_in_place_spritesheet_8x5_31: -2190134854879564224
+      jump_in_place_spritesheet_8x5_32: 3920493622216577177
+      jump_in_place_spritesheet_8x5_33: -8908232210897566505
+      jump_in_place_spritesheet_8x5_34: -6937073422865364416
+      jump_in_place_spritesheet_8x5_35: 9193584886063938792
+      jump_in_place_spritesheet_8x5_36: 7006633376254396099
+      jump_in_place_spritesheet_8x5_37: 1939900931657559305
+      jump_in_place_spritesheet_8x5_38: 5681309553143183099
+      jump_in_place_spritesheet_8x5_39: -6381255673324715164
+      jump_in_place_spritesheet_8x5_4: -5510578870858404233
+      jump_in_place_spritesheet_8x5_5: -1870850363356395735
+      jump_in_place_spritesheet_8x5_6: -4487534815052146491
+      jump_in_place_spritesheet_8x5_7: 2849302811729227181
+      jump_in_place_spritesheet_8x5_8: 4655056428593638515
+      jump_in_place_spritesheet_8x5_9: -346409135710110558
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
